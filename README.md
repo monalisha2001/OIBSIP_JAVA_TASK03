@@ -1,2 +1,2 @@
 # OIBSIP_JAVA_TASK03
-It a java program for ATM demo. This project allows to perform withdraw, deposit, transfer &amp; etc.
+This Java-based ATM Interface program simulates basic ATM functionalities, including account balance inquiry, cash withdrawal, deposit, and transfer services.
